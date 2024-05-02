@@ -21,15 +21,15 @@
   type: time_table
   contents:
     - title: Software Engineering Intern
-      institution: Google, Munich, Germany
+      institution: Google, Münich, Germany
       year: Jul - Sept 2023
       description: ML Code Completion team
     - title: Student Researcher
-      institution: Google
+      institution: Google, Kraków, Google
       year: Oct - Nov 2022
       description: AutoML team in Brain
     - title: Software Enginnering Intern
-      institution: Google, Zurich, Switzerland
+      institution: Google, Zürich, Switzerland
       year: Jul - Sept 2022
       description: AutoML team in Brain
     - title: Applied Science Intern
@@ -44,5 +44,5 @@
       institution: Goldman Sachs, Warsaw, Poland
       year: Jul - Sept 2020
     - title: STEP Intern
-      institution: Google, Zurich, Switzerland
+      institution: Google, Zürich, Switzerland
       year: Jul - Sept 2019
