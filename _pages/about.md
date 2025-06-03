@@ -6,7 +6,7 @@ subtitle:
 
 profile:
   align: right
-  image: photo.jpg
+  image: 
   image_circular: true # crops the image to make it circular
   more_info: >
 
@@ -17,7 +17,7 @@ social: true # includes social icons at the bottom of the page
 
 I am currently a PhD student in the ELLIS program at the University of Edinburgh, supervised by [Siddharth Narayanaswamy](https://homepages.inf.ed.ac.uk/snaraya3/) and co-supervised by [Stephan Günnemann](https://www.professoren.tum.de/en/guennemann-stephan) from TU Münich.
 
-My research focuses on advancing interpretability in Graph Neural Networks. At the moment, I am exploring GNNs that utilize graph kernels.
+My research focuses on improving neural networks for graph data, and diffusion models.
 
 I have completed my master's studies in Mathematics and Computer Science at Jagiellonian University, where I collaborated with the Group of Machine Learning Research [GMUM](https://gmum.net/).
 
