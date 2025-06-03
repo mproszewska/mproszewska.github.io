@@ -1,6 +1,4 @@
----
-permalink: /assets/js/open-panel-analytics-setup.js
----
+<script src="/assets/js/open-panel-analytics-setup.js"></script>;
 window.op =
   window.op ||
   function (...args) {
