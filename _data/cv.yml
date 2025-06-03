@@ -1,0 +1,47 @@
+- title: Education
+  type: time_table
+  contents:
+    - title: PhD in Informatics
+      institution: University of Edinburgh, Edinburgh, UK
+      year: 2023 - now
+    - title: Master's of Computer Science
+      institution: Jagiellonian University, Cracow, Poland
+      year: 2020 - 2022
+    - title: Master's of Mathematics
+      institution: Jagiellonian University, Cracow, Poland
+      year: 2019 - 2021
+    - title: Bachelor of Computer Science
+      institution: Jagiellonian University, Cracow, Poland
+      year: 2017 - 2020
+    - title: Bachelor of Mathematics
+      institution: Jagiellonian University, Cracow, Poland
+      year: 2016 - 2019
+- title: Experience
+  type: time_table
+  contents:
+    - title: Software Engineering Intern
+      institution: Google, Münich, Germany
+      year: Jul - Sept 2023
+      description: ML Code Completion team
+    - title: Student Researcher
+      institution: Google, Cracow, Google
+      year: Oct - Nov 2022
+      description: AutoML team in Brain
+    - title: Software Engineering Intern
+      institution: Google, Zürich, Switzerland
+      year: Jul - Sept 2022
+      description: AutoML team in Brain
+    - title: Applied Science Intern
+      institution: Amazon, Cambridge, UK
+      year: Jul - Sept 2021
+      description: Alexa Text-to-speech Research
+    - title: Applied Science Intern
+      institution: Amazon, Gdańsk, Poland
+      year: Oct - Jan 2021
+      description: Alexa Text-to-speech Research
+    - title: Analyst Intern
+      institution: Goldman Sachs, Warsaw, Poland
+      year: Jul - Sept 2020
+    - title: STEP Intern
+      institution: Google, Zürich, Switzerland
+      year: Jul - Sept 2019
